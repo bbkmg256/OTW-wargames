@@ -1,0 +1,5 @@
+Nivel: 0
+Usuario: bandit0
+Contraseña: bandit0
+Flag/Bandera: 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
+Comentario: Nada
