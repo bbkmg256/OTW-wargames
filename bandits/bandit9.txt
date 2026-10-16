@@ -1,5 +1,0 @@
-Nivel: 9
-Usuario: bandit9
-Contraseña: EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
-Flag/Bandera: B0s2khmbT9u0geKuOoVGW3JZKhndE3BG
-Comentario: Emplea comandos strings y/o grep

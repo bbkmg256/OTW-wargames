@@ -1,5 +1,0 @@
-Nivel: 1
-Usuario: bandit1
-Contraseña: 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
-Flag/Bandera: PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
-Comentario: ...
