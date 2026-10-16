@@ -7,7 +7,7 @@
 
 echo -e "[!] Nivel del bandit (Ej: 0, 1, 2, ...)"; read -p "> " b_nivel
 
-echo -e "[!] Direccion del bandit (Ej: bandit.labs.overthewire.org)"; read -p "> " b_dir
+# echo -e "[!] Direccion del bandit (Ej: bandit.labs.overthewire.org)"; read -p "> " b_dir
 
 echo -e "[!] Usuario de acceso del bandit"; read -p "> " b_us
 

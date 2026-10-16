@@ -1,0 +1,5 @@
+Nivel: 7
+Usuario: bandit7
+Contraseña: Bmnnvf82KzQlfxgAI2d1zYbr1u9pr3E3 
+Flag/Bandera: VR1ljMayciFxbnUokuQmJFw6QC9VKtub
+Comentario: La flag está al lado, AL LADO!!!

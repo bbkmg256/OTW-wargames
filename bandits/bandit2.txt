@@ -1,0 +1,5 @@
+Nivel: 2
+Usuario: bandit2
+Contraseña: PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
+Flag/Bandera: 7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME
+Comentario: ...

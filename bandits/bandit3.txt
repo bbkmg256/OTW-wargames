@@ -1,0 +1,5 @@
+Nivel: 3
+Usuario: bandit3
+Contraseña: 7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME
+Flag/Bandera: xzTXq1rDJQVVAzdv5cHq1TQytTWufAMq
+Comentario: ...

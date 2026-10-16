@@ -1,0 +1,5 @@
+Nivel: 4
+Usuario: bandit4
+Contraseña: xzTXq1rDJQVVAzdv5cHq1TQytTWufAMq
+Flag/Bandera: 6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG
+Comentario: Se busca un fichero ASCII humanamente legible

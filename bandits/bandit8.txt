@@ -1,0 +1,5 @@
+Nivel: 8
+Usuario: bandit8
+Contraseña: VR1ljMayciFxbnUokuQmJFw6QC9VKtub
+Flag/Bandera: EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
+Comentario: sort y uniq :)

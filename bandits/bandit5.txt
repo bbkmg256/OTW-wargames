@@ -1,0 +1,5 @@
+Nivel: 5
+Usuario: bandit5
+Contraseña: 6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG
+Flag/Bandera: pXa26xhMWaC2SvDotA4r9EgZkulOeSBW
+Comentario: "find . -size 1033c"; c especifica bytes para el comando find

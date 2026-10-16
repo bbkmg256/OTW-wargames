@@ -1,0 +1,5 @@
+Nivel: 6
+Usuario: bandit6
+Contraseña: pXa26xhMWaC2SvDotA4r9EgZkulOeSBW 
+Flag/Bandera: Bmnnvf82KzQlfxgAI2d1zYbr1u9pr3E3
+Comentario: Cuando te dicen "En algun lugar del servidor" es "EN ALGUN LUGAR LITERALMENTE REMOTO DEL SERVIDOR" así que hay que buscar mas allá

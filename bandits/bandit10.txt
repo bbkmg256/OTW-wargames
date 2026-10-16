@@ -1,0 +1,5 @@
+Nivel: 10
+Usuario: bandit10
+Contraseña: B0s2khmbT9u0geKuOoVGW3JZKhndE3BG 
+Flag/Bandera: pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro
+Comentario: base64 -d
